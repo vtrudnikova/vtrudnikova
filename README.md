@@ -8,4 +8,4 @@ Hello :v:
 :earth_americas:I love to travel. I like :bicyclist:
 
 
- :shinto_shrine:I want to visit Japan
+ :shinto_shrine:I want to visit Japan:white_heart:
