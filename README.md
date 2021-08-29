@@ -9,3 +9,6 @@ Hello :v:
 
 
  :shinto_shrine:I want to visit Japan:white_heart:
+ 
+ ![Trudnikova Violetta GitHub stats](https://github-readme-stats.vercel.app/api?username=vtrudnikova&show_icons=true&theme=radical)
+
