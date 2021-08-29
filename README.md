@@ -4,7 +4,7 @@ Hello :v:
 
 :computer: I work Manual QA.
 
-:mortar_board: I’m currently learning at QA Guru.
+:mortar_board: I’m currently studying at QA Guru School.
 
 
 :earth_americas:I love to travel. I like :bicyclist:
